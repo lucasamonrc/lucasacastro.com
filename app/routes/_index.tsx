@@ -20,7 +20,7 @@ export default function Home() {
         alt="A picture of me (Lucas)"
         className="w-32 h-32 rounded-lg shadow-sm float-start mr-6 !my-0"
       />
-      <p className="mt-0">Hello, there! I'm Lucas</p>
+      <p className="mt-0">Hello, there! I'm Lucas.</p>
       <p>
         I work as software engineer at{" "}
         <a href="https://www.cloudflare.com">Cloudflare</a>. Previously I was a

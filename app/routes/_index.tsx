@@ -29,7 +29,7 @@ export default function Home() {
       </p>
       <p>
         I like to <NavLink to="/writing">write</NavLink> every now and then, and
-        I about once a year I give a <NavLink to="/talks">talk</NavLink> at a
+        about once a year I give a <NavLink to="/talks">talk</NavLink> at a
         developer conference or local meetup.
       </p>
       <p>

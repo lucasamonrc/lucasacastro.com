@@ -16,7 +16,7 @@ export default function Talks() {
     <>
       <h2>Talks</h2>
       <p>
-        I like to engage with the dev community thorugh talks and presentation.
+        I like to engage with the dev community thorugh talks and presentations.
         It is also a good way to share things I've learned and meet new people,
         so I try to give a talk or two every year. Here's a list of some of the
         talks I've given:

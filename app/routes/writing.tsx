@@ -17,9 +17,14 @@ export default function Writing() {
     <>
       <h2>Writing</h2>
       <p>
-        Every now and then I feel compelled to publish some of my thoughts
-        about. These posts don't have any regular cadence, they simply pop right
-        out of my head whenever I feel like its a thought worth sharing.
+        Every now and then I feel compelled to publish some of my thoughts. They
+        can be about anything, really, but usually they are about my career,
+        programming, or the industry.
+      </p>
+
+      <p>
+        These posts don't have any regular cadence, they simply pop right out of
+        my head whenever I feel like it is a thought worth sharing.
       </p>
       {/* <p className="italic">
         Since August 2025 I've been releasing a weekly series called{" "}

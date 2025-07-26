@@ -5,7 +5,7 @@ const pages = [
   { to: "/work", label: "work" },
   { to: "/writing", label: "writing" },
   { to: "/talks", label: "talks" },
-  { to: "/bookmarks", label: "bookmarks" },
+  // { to: "/bookmarks", label: "bookmarks" },
   { to: "/misc", label: "misc" },
 ];
 

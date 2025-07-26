@@ -36,6 +36,23 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <Meta />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://lucasacastro.com/" />
+        <meta property="og:title" content="Lucas Castro" />
+        <meta
+          property="og:description"
+          content="Hello, there! I'm Lucas. Welcome to my personal website. You can learn more about me, my work, and the things I care about here. I talk about programming, careers, and the tech industry."
+        />
+        <meta property="og:image" content="/meta-image.png" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="http://lucasacastro.com/" />
+        <meta property="twitter:title" content="Lucas Castro" />
+        <meta
+          property="twitter:description"
+          content="Hello, there! I'm Lucas. Welcome to my personal website. You can learn more about me, my work, and the things I care about here. I talk about programming, careers, and the tech industry."
+        />
+        <meta property="twitter:image" content="/meta-image.png" />
+        1
         <Links />
       </head>
       <body className="max-w-5xl mx-auto w-full p-4">

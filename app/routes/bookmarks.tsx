@@ -6,7 +6,7 @@ export function meta({}: Route.MetaArgs) {
     {
       name: "description",
       content:
-        "I consume a lot of content, way more than I'd like to admit actually. I read a ton of books and articles, watch way too many videos, and listen to a lot of different talks and podcasts. So every week I try to collect some of the most interesting stuff I found, add some brief thoughts, and share it with you.",
+        "Hello, there! I'm Lucas. Welcome to my personal website. You can learn more about me, my work, and the things I care about here. I talk about programming, careers, and the tech industry.",
     },
   ];
 }

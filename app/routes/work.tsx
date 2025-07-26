@@ -5,7 +5,8 @@ export function meta({}: Route.MetaArgs) {
     { title: "Work | Lucas Castro" },
     {
       name: "description",
-      content: "Hello, there! I'm Lucas. Welcome to my personal website.",
+      content:
+        "Hello, there! I'm Lucas. Welcome to my personal website. You can learn more about me, my work, and the things I care about here. I talk about programming, careers, and the tech industry.",
     },
   ];
 }

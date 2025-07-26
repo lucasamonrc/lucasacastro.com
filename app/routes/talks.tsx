@@ -6,7 +6,7 @@ export function meta({}: Route.MetaArgs) {
     {
       name: "description",
       content:
-        "I like to engage with the dev community thorugh talks and presentation. It is also a good way to share things I've learned and meet new people, so I try to give a talk or two every year. Here's a list of some of the talks I've given:",
+        "Hello, there! I'm Lucas. Welcome to my personal website. You can learn more about me, my work, and the things I care about here. I talk about programming, careers, and the tech industry.",
     },
   ];
 }
